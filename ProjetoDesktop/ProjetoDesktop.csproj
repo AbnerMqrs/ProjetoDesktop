@@ -1,0 +1,418 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E496B41B-0B87-44E7-B227-1EFA87A34F3E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProjetoDesktop</RootNamespace>
+    <AssemblyName>ProjetoDesktop</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cadastro\FormCep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FormCep.Designer.cs">
+      <DependentUpon>FormCep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FormCidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FormCidade.Designer.cs">
+      <DependentUpon>FormCidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FormBairro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FormBairro.Designer.cs">
+      <DependentUpon>FormBairro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acesso\FormItensacessologin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acesso\FormItensacessologin.Designer.cs">
+      <DependentUpon>FormItensacessologin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loja\FormItenstelefonecliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loja\FormItenstelefonecliente.Designer.cs">
+      <DependentUpon>FormItenstelefonecliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOJAUNIFUNEC2024DataSet.cs">
+      <DependentUpon>LOJAUNIFUNEC2024DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LOJAUNIFUNEC2024DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LOJAUNIFUNEC2024DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormCompraproduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormCompraproduto.Designer.cs">
+      <DependentUpon>FormCompraproduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormFornecedor.Designer.cs">
+      <DependentUpon>FormFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormImagens.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormImagens.Designer.cs">
+      <DependentUpon>FormImagens.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormItenscompraproduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormItenscompraproduto.Designer.cs">
+      <DependentUpon>FormItenscompraproduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormItenstelefonefornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormItenstelefonefornecedor.Designer.cs">
+      <DependentUpon>FormItenstelefonefornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormItensvendaproduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormItensvendaproduto.Designer.cs">
+      <DependentUpon>FormItensvendaproduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormParcelacompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormParcelacompra.Designer.cs">
+      <DependentUpon>FormParcelacompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormParcelavenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormParcelavenda.Designer.cs">
+      <DependentUpon>FormParcelavenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormSituacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormSituacao.Designer.cs">
+      <DependentUpon>FormSituacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormVendaproduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormVendaproduto.Designer.cs">
+      <DependentUpon>FormVendaproduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormProduto.Designer.cs">
+      <DependentUpon>FormProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormTipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormTipo.Designer.cs">
+      <DependentUpon>FormTipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produto\FormMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produto\FormMarca.Designer.cs">
+      <DependentUpon>FormMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acesso\FormAcesso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acesso\FormAcesso.Designer.cs">
+      <DependentUpon>FormAcesso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acesso\FormControlelogsistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acesso\FormControlelogsistema.Designer.cs">
+      <DependentUpon>FormControlelogsistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loja\FormItenstelefoneloja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loja\FormItenstelefoneloja.Designer.cs">
+      <DependentUpon>FormItenstelefoneloja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Acesso\FormLogins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acesso\FormLogins.Designer.cs">
+      <DependentUpon>FormLogins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FormCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FormCliente.Designer.cs">
+      <DependentUpon>FormCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loja\FormFuncao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loja\FormFuncao.Designer.cs">
+      <DependentUpon>FormFuncao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loja\FormFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loja\FormFuncionarios.Designer.cs">
+      <DependentUpon>FormFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loja\FormItenstelefonefuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loja\FormItenstelefonefuncionario.Designer.cs">
+      <DependentUpon>FormItenstelefonefuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loja\FormItenstelefonetrabalho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loja\FormItenstelefonetrabalho.Designer.cs">
+      <DependentUpon>FormItenstelefonetrabalho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loja\FormLoja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loja\FormLoja.Designer.cs">
+      <DependentUpon>FormLoja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FormRua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FormRua.Designer.cs">
+      <DependentUpon>FormRua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FormSexo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FormSexo.Designer.cs">
+      <DependentUpon>FormSexo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loja\FormOperadora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loja\FormOperadora.Designer.cs">
+      <DependentUpon>FormOperadora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loja\FormTelefone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loja\FormTelefone.Designer.cs">
+      <DependentUpon>FormTelefone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FormTrabalho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FormTrabalho.Designer.cs">
+      <DependentUpon>FormTrabalho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FormUf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FormUf.Designer.cs">
+      <DependentUpon>FormUf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Acesso\FormAcesso.resx">
+      <DependentUpon>FormAcesso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acesso\FormControlelogsistema.resx">
+      <DependentUpon>FormControlelogsistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acesso\FormLogins.resx">
+      <DependentUpon>FormLogins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FormBairro.resx">
+      <DependentUpon>FormBairro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FormCep.resx">
+      <DependentUpon>FormCep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FormCidade.resx">
+      <DependentUpon>FormCidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FormCliente.resx">
+      <DependentUpon>FormCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FormRua.resx">
+      <DependentUpon>FormRua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FormSexo.resx">
+      <DependentUpon>FormSexo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FormTrabalho.resx">
+      <DependentUpon>FormTrabalho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FormUf.resx">
+      <DependentUpon>FormUf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Acesso\FormItensacessologin.resx">
+      <DependentUpon>FormItensacessologin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loja\FormFuncao.resx">
+      <DependentUpon>FormFuncao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loja\FormFuncionarios.resx">
+      <DependentUpon>FormFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loja\FormItenstelefonecliente.resx">
+      <DependentUpon>FormItenstelefonecliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loja\FormItenstelefonefuncionario.resx">
+      <DependentUpon>FormItenstelefonefuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loja\FormItenstelefoneloja.resx">
+      <DependentUpon>FormItenstelefoneloja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loja\FormItenstelefonetrabalho.resx">
+      <DependentUpon>FormItenstelefonetrabalho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loja\FormLoja.resx">
+      <DependentUpon>FormLoja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loja\FormOperadora.resx">
+      <DependentUpon>FormOperadora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loja\FormTelefone.resx">
+      <DependentUpon>FormTelefone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormCompraproduto.resx">
+      <DependentUpon>FormCompraproduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormFornecedor.resx">
+      <DependentUpon>FormFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormImagens.resx">
+      <DependentUpon>FormImagens.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormItenscompraproduto.resx">
+      <DependentUpon>FormItenscompraproduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormItenstelefonefornecedor.resx">
+      <DependentUpon>FormItenstelefonefornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormItensvendaproduto.resx">
+      <DependentUpon>FormItensvendaproduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormMarca.resx">
+      <DependentUpon>FormMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormParcelacompra.resx">
+      <DependentUpon>FormParcelacompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormParcelavenda.resx">
+      <DependentUpon>FormParcelavenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormProduto.resx">
+      <DependentUpon>FormProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormSituacao.resx">
+      <DependentUpon>FormSituacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormTipo.resx">
+      <DependentUpon>FormTipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produto\FormVendaproduto.resx">
+      <DependentUpon>FormVendaproduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="LOJAUNIFUNEC2024DataSet.xsc">
+      <DependentUpon>LOJAUNIFUNEC2024DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LOJAUNIFUNEC2024DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LOJAUNIFUNEC2024DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LOJAUNIFUNEC2024DataSet.xss">
+      <DependentUpon>LOJAUNIFUNEC2024DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,1196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|c:\\users\\abner\\downloads\\projetodesktop\\acesso\\formitensacessologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:acesso\\formitensacessologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|c:\\users\\abner\\downloads\\projetodesktop\\acesso\\formitensacessologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:acesso\\formitensacessologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formtipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formtipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formtipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formtipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formsituacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formsituacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formsituacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formsituacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formparcelavenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formparcelavenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formparcelavenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formparcelavenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formparcelacompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formparcelacompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formparcelacompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formparcelacompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formitensvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formitensvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formitensvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formitensvendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formitenstelefonefornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formitenstelefonefornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formitenstelefonefornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formitenstelefonefornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formitenscompraproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formitenscompraproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formitenscompraproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formitenscompraproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formimagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formimagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formimagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formimagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formcompraproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formcompraproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formcompraproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formcompraproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formtelefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formtelefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formtelefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formtelefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formoperadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formoperadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formoperadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formoperadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formitenstelefonetrabalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formitenstelefonetrabalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formitenstelefonetrabalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formitenstelefonetrabalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formloja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formloja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formloja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formloja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formitenstelefoneloja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formitenstelefoneloja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formitenstelefoneloja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formitenstelefoneloja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formitenstelefonefuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formitenstelefonefuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formitenstelefonefuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formitenstelefonefuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formitenstelefonecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formitenstelefonecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formitenstelefonecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formitenstelefonecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formfuncao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formfuncao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\loja\\formfuncao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:loja\\formfuncao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\acesso\\formlogins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:acesso\\formlogins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\acesso\\formlogins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:acesso\\formlogins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\acesso\\formcontrolelogsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:acesso\\formcontrolelogsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\acesso\\formcontrolelogsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:acesso\\formcontrolelogsistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\acesso\\formacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:acesso\\formacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\acesso\\formacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:acesso\\formacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formuf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formuf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formuf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formuf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formtrabalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formtrabalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formtrabalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formtrabalho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formsexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formsexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formsexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formsexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formrua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formrua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formrua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formrua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formcidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formcidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formcidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formcidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formcep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formcep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formcep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formcep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formbairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formbairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\cadastro\\formbairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:cadastro\\formbairro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\lojaunifunec2024dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:lojaunifunec2024dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formfornecedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formfornecedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\produto\\formitensvendaproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:produto\\formitensvendaproduto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E496B41B-0B87-44E7-B227-1EFA87A34F3E}|ProjetoDesktop.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormItensacessologin.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormItensacessologin.cs",
+              "RelativeDocumentMoniker": "Acesso\\FormItensacessologin.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormItensacessologin.cs",
+              "RelativeToolTip": "Acesso\\FormItensacessologin.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:55:49.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormItensacessologin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormItensacessologin.cs",
+              "RelativeDocumentMoniker": "Acesso\\FormItensacessologin.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormItensacessologin.cs [Design]",
+              "RelativeToolTip": "Acesso\\FormItensacessologin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:55:29.206Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormProduto.cs",
+              "RelativeDocumentMoniker": "Produto\\FormProduto.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormProduto.cs",
+              "RelativeToolTip": "Produto\\FormProduto.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:45:40.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormVendaproduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormVendaproduto.cs",
+              "RelativeDocumentMoniker": "Produto\\FormVendaproduto.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormVendaproduto.cs [Design]",
+              "RelativeToolTip": "Produto\\FormVendaproduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:18:35.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormSituacao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormSituacao.cs",
+              "RelativeDocumentMoniker": "Produto\\FormSituacao.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormSituacao.cs [Design]",
+              "RelativeToolTip": "Produto\\FormSituacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:18:05.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormVendaproduto.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormVendaproduto.cs",
+              "RelativeDocumentMoniker": "Produto\\FormVendaproduto.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormVendaproduto.cs",
+              "RelativeToolTip": "Produto\\FormVendaproduto.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwE0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:12:21.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormTipo.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormTipo.cs",
+              "RelativeDocumentMoniker": "Produto\\FormTipo.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormTipo.cs",
+              "RelativeToolTip": "Produto\\FormTipo.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:12:16.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormTipo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormTipo.cs",
+              "RelativeDocumentMoniker": "Produto\\FormTipo.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormTipo.cs [Design]",
+              "RelativeToolTip": "Produto\\FormTipo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:14:36.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormSituacao.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormSituacao.cs",
+              "RelativeDocumentMoniker": "Produto\\FormSituacao.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormSituacao.cs",
+              "RelativeToolTip": "Produto\\FormSituacao.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:12:12.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormProduto.cs",
+              "RelativeDocumentMoniker": "Produto\\FormProduto.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormProduto.cs [Design]",
+              "RelativeToolTip": "Produto\\FormProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:14:52.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormParcelavenda.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormParcelavenda.cs",
+              "RelativeDocumentMoniker": "Produto\\FormParcelavenda.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormParcelavenda.cs",
+              "RelativeToolTip": "Produto\\FormParcelavenda.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:58:08.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormParcelavenda.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormParcelavenda.cs",
+              "RelativeDocumentMoniker": "Produto\\FormParcelavenda.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormParcelavenda.cs [Design]",
+              "RelativeToolTip": "Produto\\FormParcelavenda.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:19:12.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormParcelacompra.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormParcelacompra.cs",
+              "RelativeDocumentMoniker": "Produto\\FormParcelacompra.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormParcelacompra.cs",
+              "RelativeToolTip": "Produto\\FormParcelacompra.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAQwE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:53:00.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormParcelacompra.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormParcelacompra.cs",
+              "RelativeDocumentMoniker": "Produto\\FormParcelacompra.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormParcelacompra.cs [Design]",
+              "RelativeToolTip": "Produto\\FormParcelacompra.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:18:27.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormMarca.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormMarca.cs",
+              "RelativeDocumentMoniker": "Produto\\FormMarca.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormMarca.cs",
+              "RelativeToolTip": "Produto\\FormMarca.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:12:07.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormMarca.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormMarca.cs",
+              "RelativeDocumentMoniker": "Produto\\FormMarca.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormMarca.cs [Design]",
+              "RelativeToolTip": "Produto\\FormMarca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:12:14.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormItensvendaproduto.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItensvendaproduto.cs",
+              "RelativeDocumentMoniker": "Produto\\FormItensvendaproduto.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItensvendaproduto.cs",
+              "RelativeToolTip": "Produto\\FormItensvendaproduto.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:51:27.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormItensvendaproduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItensvendaproduto.cs",
+              "RelativeDocumentMoniker": "Produto\\FormItensvendaproduto.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItensvendaproduto.cs [Design]",
+              "RelativeToolTip": "Produto\\FormItensvendaproduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:18:52.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormItenstelefonefornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItenstelefonefornecedor.cs",
+              "RelativeDocumentMoniker": "Produto\\FormItenstelefonefornecedor.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItenstelefonefornecedor.cs",
+              "RelativeToolTip": "Produto\\FormItenstelefonefornecedor.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:21:07.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormItenstelefonefornecedor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItenstelefonefornecedor.cs",
+              "RelativeDocumentMoniker": "Produto\\FormItenstelefonefornecedor.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItenstelefonefornecedor.cs [Design]",
+              "RelativeToolTip": "Produto\\FormItenstelefonefornecedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:49:14.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormItenscompraproduto.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItenscompraproduto.cs",
+              "RelativeDocumentMoniker": "Produto\\FormItenscompraproduto.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItenscompraproduto.cs",
+              "RelativeToolTip": "Produto\\FormItenscompraproduto.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:10:56.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormItenscompraproduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItenscompraproduto.cs",
+              "RelativeDocumentMoniker": "Produto\\FormItenscompraproduto.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItenscompraproduto.cs [Design]",
+              "RelativeToolTip": "Produto\\FormItenscompraproduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:17:24.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormImagens.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormImagens.cs",
+              "RelativeDocumentMoniker": "Produto\\FormImagens.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormImagens.cs",
+              "RelativeToolTip": "Produto\\FormImagens.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:26:36.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormImagens.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormImagens.cs",
+              "RelativeDocumentMoniker": "Produto\\FormImagens.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormImagens.cs [Design]",
+              "RelativeToolTip": "Produto\\FormImagens.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:19:28.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormFornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormFornecedor.cs",
+              "RelativeDocumentMoniker": "Produto\\FormFornecedor.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormFornecedor.cs",
+              "RelativeToolTip": "Produto\\FormFornecedor.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAQwFIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:38:51.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormFornecedor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormFornecedor.cs",
+              "RelativeDocumentMoniker": "Produto\\FormFornecedor.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormFornecedor.cs [Design]",
+              "RelativeToolTip": "Produto\\FormFornecedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:16:02.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormCompraproduto.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormCompraproduto.cs",
+              "RelativeDocumentMoniker": "Produto\\FormCompraproduto.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormCompraproduto.cs",
+              "RelativeToolTip": "Produto\\FormCompraproduto.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:39:28.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormCompraproduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormCompraproduto.cs",
+              "RelativeDocumentMoniker": "Produto\\FormCompraproduto.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormCompraproduto.cs [Design]",
+              "RelativeToolTip": "Produto\\FormCompraproduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:17:01.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormTelefone.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormTelefone.cs",
+              "RelativeDocumentMoniker": "Loja\\FormTelefone.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormTelefone.cs",
+              "RelativeToolTip": "Loja\\FormTelefone.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAQwEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:15:15.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormTelefone.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormTelefone.cs",
+              "RelativeDocumentMoniker": "Loja\\FormTelefone.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormTelefone.cs [Design]",
+              "RelativeToolTip": "Loja\\FormTelefone.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:07:17.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormOperadora.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormOperadora.cs",
+              "RelativeDocumentMoniker": "Loja\\FormOperadora.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormOperadora.cs",
+              "RelativeToolTip": "Loja\\FormOperadora.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:12:02.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormOperadora.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormOperadora.cs",
+              "RelativeDocumentMoniker": "Loja\\FormOperadora.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormOperadora.cs [Design]",
+              "RelativeToolTip": "Loja\\FormOperadora.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:07:06.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormItenstelefonetrabalho.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonetrabalho.cs",
+              "RelativeDocumentMoniker": "Loja\\FormItenstelefonetrabalho.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonetrabalho.cs",
+              "RelativeToolTip": "Loja\\FormItenstelefonetrabalho.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:03:16.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormItenstelefonetrabalho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonetrabalho.cs",
+              "RelativeDocumentMoniker": "Loja\\FormItenstelefonetrabalho.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonetrabalho.cs [Design]",
+              "RelativeToolTip": "Loja\\FormItenstelefonetrabalho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:08:06.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormLoja.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormLoja.cs",
+              "RelativeDocumentMoniker": "Loja\\FormLoja.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormLoja.cs",
+              "RelativeToolTip": "Loja\\FormLoja.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:11:56.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormLoja.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormLoja.cs",
+              "RelativeDocumentMoniker": "Loja\\FormLoja.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormLoja.cs [Design]",
+              "RelativeToolTip": "Loja\\FormLoja.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:08:39.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormItenstelefoneloja.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefoneloja.cs",
+              "RelativeDocumentMoniker": "Loja\\FormItenstelefoneloja.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefoneloja.cs",
+              "RelativeToolTip": "Loja\\FormItenstelefoneloja.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:56:47.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormItenstelefoneloja.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefoneloja.cs",
+              "RelativeDocumentMoniker": "Loja\\FormItenstelefoneloja.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefoneloja.cs [Design]",
+              "RelativeToolTip": "Loja\\FormItenstelefoneloja.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:02:02.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormItenstelefonefuncionario.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonefuncionario.cs",
+              "RelativeDocumentMoniker": "Loja\\FormItenstelefonefuncionario.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonefuncionario.cs",
+              "RelativeToolTip": "Loja\\FormItenstelefonefuncionario.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAQwFEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:45:04.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormItenstelefonefuncionario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonefuncionario.cs",
+              "RelativeDocumentMoniker": "Loja\\FormItenstelefonefuncionario.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonefuncionario.cs [Design]",
+              "RelativeToolTip": "Loja\\FormItenstelefonefuncionario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:09:33.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormItenstelefonecliente.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonecliente.cs",
+              "RelativeDocumentMoniker": "Loja\\FormItenstelefonecliente.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonecliente.cs",
+              "RelativeToolTip": "Loja\\FormItenstelefonecliente.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:20:22.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormItenstelefonecliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonecliente.cs",
+              "RelativeDocumentMoniker": "Loja\\FormItenstelefonecliente.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormItenstelefonecliente.cs [Design]",
+              "RelativeToolTip": "Loja\\FormItenstelefonecliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:19:51.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormFuncionarios.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormFuncionarios.cs",
+              "RelativeDocumentMoniker": "Loja\\FormFuncionarios.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormFuncionarios.cs",
+              "RelativeToolTip": "Loja\\FormFuncionarios.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:19:01.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormFuncionarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormFuncionarios.cs",
+              "RelativeDocumentMoniker": "Loja\\FormFuncionarios.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormFuncionarios.cs [Design]",
+              "RelativeToolTip": "Loja\\FormFuncionarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:18:56.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormFuncao.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormFuncao.cs",
+              "RelativeDocumentMoniker": "Loja\\FormFuncao.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormFuncao.cs",
+              "RelativeToolTip": "Loja\\FormFuncao.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:44:55.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormFuncao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormFuncao.cs",
+              "RelativeDocumentMoniker": "Loja\\FormFuncao.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Loja\\FormFuncao.cs [Design]",
+              "RelativeToolTip": "Loja\\FormFuncao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:18:54.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormLogins.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormLogins.cs",
+              "RelativeDocumentMoniker": "Acesso\\FormLogins.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormLogins.cs",
+              "RelativeToolTip": "Acesso\\FormLogins.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAQwEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:18:42.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FormLogins.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormLogins.cs",
+              "RelativeDocumentMoniker": "Acesso\\FormLogins.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormLogins.cs [Design]",
+              "RelativeToolTip": "Acesso\\FormLogins.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:18:31.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormControlelogsistema.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormControlelogsistema.cs",
+              "RelativeDocumentMoniker": "Acesso\\FormControlelogsistema.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormControlelogsistema.cs",
+              "RelativeToolTip": "Acesso\\FormControlelogsistema.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:17:03.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FormControlelogsistema.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormControlelogsistema.cs",
+              "RelativeDocumentMoniker": "Acesso\\FormControlelogsistema.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormControlelogsistema.cs [Design]",
+              "RelativeToolTip": "Acesso\\FormControlelogsistema.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:16:37.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FormAcesso.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormAcesso.cs",
+              "RelativeDocumentMoniker": "Acesso\\FormAcesso.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormAcesso.cs",
+              "RelativeToolTip": "Acesso\\FormAcesso.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:44:47.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FormAcesso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormAcesso.cs",
+              "RelativeDocumentMoniker": "Acesso\\FormAcesso.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Acesso\\FormAcesso.cs [Design]",
+              "RelativeToolTip": "Acesso\\FormAcesso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:16:35.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FormUf.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormUf.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormUf.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormUf.cs",
+              "RelativeToolTip": "Cadastro\\FormUf.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:46:12.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FormTrabalho.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormTrabalho.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormTrabalho.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormTrabalho.cs",
+              "RelativeToolTip": "Cadastro\\FormTrabalho.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:46:07.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FormSexo.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormSexo.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormSexo.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormSexo.cs",
+              "RelativeToolTip": "Cadastro\\FormSexo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:44:45.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FormSexo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormSexo.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormSexo.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormSexo.cs [Design]",
+              "RelativeToolTip": "Cadastro\\FormSexo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:04:12.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FormRua.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormRua.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormRua.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormRua.cs",
+              "RelativeToolTip": "Cadastro\\FormRua.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:44:31.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FormRua.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormRua.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormRua.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormRua.cs [Design]",
+              "RelativeToolTip": "Cadastro\\FormRua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:04:26.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormUf.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormUf.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormUf.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormUf.cs [Design]",
+              "RelativeToolTip": "Cadastro\\FormUf.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:14:28.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FormCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCliente.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormCliente.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCliente.cs",
+              "RelativeToolTip": "Cadastro\\FormCliente.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:14:36.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FormTrabalho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormTrabalho.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormTrabalho.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormTrabalho.cs [Design]",
+              "RelativeToolTip": "Cadastro\\FormTrabalho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:05:50.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FormCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCliente.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormCliente.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCliente.cs [Design]",
+              "RelativeToolTip": "Cadastro\\FormCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:14:33.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FormCidade.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCidade.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormCidade.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCidade.cs",
+              "RelativeToolTip": "Cadastro\\FormCidade.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:16:01.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FormCidade.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCidade.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormCidade.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCidade.cs [Design]",
+              "RelativeToolTip": "Cadastro\\FormCidade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:05:39.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FormCep.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCep.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormCep.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCep.cs",
+              "RelativeToolTip": "Cadastro\\FormCep.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:45:36.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FormCep.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCep.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormCep.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormCep.cs [Design]",
+              "RelativeToolTip": "Cadastro\\FormCep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:05:07.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FormBairro.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormBairro.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormBairro.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormBairro.cs",
+              "RelativeToolTip": "Cadastro\\FormBairro.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:45:29.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FormBairro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormBairro.cs",
+              "RelativeDocumentMoniker": "Cadastro\\FormBairro.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Cadastro\\FormBairro.cs [Design]",
+              "RelativeToolTip": "Cadastro\\FormBairro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:28:43.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "LOJAUNIFUNEC2024DataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\LOJAUNIFUNEC2024DataSet.xsd",
+              "RelativeDocumentMoniker": "LOJAUNIFUNEC2024DataSet.xsd",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\LOJAUNIFUNEC2024DataSet.xsd",
+              "RelativeToolTip": "LOJAUNIFUNEC2024DataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-06-09T00:25:03.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:03:35.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\FormLogin.cs",
+              "RelativeDocumentMoniker": "FormLogin.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\FormLogin.cs [Design]",
+              "RelativeToolTip": "FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:02:54.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:15:55.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "FormFornecedor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormFornecedor.Designer.cs",
+              "RelativeDocumentMoniker": "Produto\\FormFornecedor.Designer.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormFornecedor.Designer.cs",
+              "RelativeToolTip": "Produto\\FormFornecedor.Designer.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAgwL8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:24:26.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "FormItensvendaproduto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItensvendaproduto.Designer.cs",
+              "RelativeDocumentMoniker": "Produto\\FormItensvendaproduto.Designer.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\Produto\\FormItensvendaproduto.Designer.cs",
+              "RelativeToolTip": "Produto\\FormItensvendaproduto.Designer.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAgwBcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:51:32.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\Abner\\Downloads\\ProjetoDesktop\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwDMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:49:44.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
